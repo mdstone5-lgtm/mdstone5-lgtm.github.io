@@ -30,3 +30,5 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
+
+custom_css: ["assets/css/custom.css"]
