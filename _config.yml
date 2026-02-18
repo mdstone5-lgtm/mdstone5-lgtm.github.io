@@ -14,7 +14,7 @@ author: Micah D. Stone Jr.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "A virtual proof that I am awesome."
+  About Me: "A virtual proof that I am awesome"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
